@@ -1,0 +1,1 @@
+cmd_/home/vidhathri/DD/kernelmodule-keylogger-master/keylogger.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vidhathri/DD/kernelmodule-keylogger-master/keylogger.ko /home/vidhathri/DD/kernelmodule-keylogger-master/keylogger.o /home/vidhathri/DD/kernelmodule-keylogger-master/keylogger.mod.o
