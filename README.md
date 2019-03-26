@@ -5,7 +5,7 @@ Device drivers lab
   - kernel module: A basic 'hello world' program for kernel module.
   - char_dev.c:Simple character device
 2. Keyboard capture:
-  - Kernel module to capture the keyboard signals. Use 
+  - Kernel module to capture the keyboard signals.
 3. Pcap:
   - Capture IP packets and puts the data in file. Displays the data containing password. Assignment part 1
 4. IOCTL:
