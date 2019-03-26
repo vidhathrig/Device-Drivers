@@ -1,0 +1,7 @@
+Folder contains programs done for lab1 of device drivers
+
+1. bin_dec_conv.sh --> converts binary to decimal and decimal to binary based on choice
+2. hello_kernel --> hello world program of linux kernel module
+3. kernel_module_basic.c --> basic lkm with parameters
+4. char_dev.c --> simple character device
+5. test_device -->contains userapp which accesses character device
